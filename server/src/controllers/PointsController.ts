@@ -1,7 +1,7 @@
 import { Request, Response, json } from 'express';
 import knex from '../database/connections';
 
-let LOCAL_IP = 'http://192.168.100.8';
+let LOCAL_IP = 'http://999.999.999.999';
 
 class PointsController {
 

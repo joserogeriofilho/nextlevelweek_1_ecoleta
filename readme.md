@@ -20,22 +20,22 @@ Antes de rodar o backend, front-end web e front-end mobile, altere o valor da co
 
 #### API REST (Backend)
 * Abra um terminal na pasta /server
-* > npm install
-* > npm run knex:migrate
-* > npm run knex:seed
-* > npm run dev
+* `npm install`
+* `npm run knex:migrate`
+* `npm run knex:seed`
+* `npm run dev`
 
 #### Aplicativo Web (Front-end)
 * Abra um terminal na pasta /web
-* > npm install
-* > npm run start
+* `npm install`
+* `npm run start`
 * Cadastre um ponto de coleta
 
 #### Aplicativo Mobile (Front-end)
 * Instale o Expo no seu celular [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www) ou [iPhone](https://apps.apple.com/app/apple-store/id982107779)
 * Abra um terminal na pasta /mobile
-* > npm install
-* > npm run start
+* `npm install`
+* `npm run start`
 * Abra o aplicativo Expo no seu celular e leia o código de barras da instância Expo aberta no seu navegador
 * Pesquise pela UF, Cidade e pontos de coleta cadastrados no item anterior e os veja na tela
 
