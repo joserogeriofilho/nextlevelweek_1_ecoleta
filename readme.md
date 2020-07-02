@@ -1,4 +1,4 @@
-<p align="center"><img alt="Material-UI POC" src="https://user-images.githubusercontent.com/12038461/68550201-7abcb800-03df-11ea-96c7-1adc31d2fd3a.png"></p>
+<p align="center"><img alt="Ecoleta" src="https://user-images.githubusercontent.com/12038461/86312573-69881c00-bbf9-11ea-9dfa-0e0d8e7196d7.png"></p>
 
 # Ecoleta
 ### Next Level Week #1
@@ -16,7 +16,7 @@ Projeto desenvolvido durante a Next Level Week #1, uma iniciativa da [Rocketseat
 * [Expo](https://expo.io/) ( `npm install expo-cli --global` )
 
 ### Rodando o Projeto
-Antes de rodar o backend, front-end web e front-end mobile, altere o valor da constante LOCAL_IP nos arquivos `server\src\controllers\PointsController.ts`, `server\src\controllers\ItemsController.ts` e `mobile\src\services\api.ts` colocando o valor do seu IP local.
+Antes de rodar o backend, front-end web e front-end mobile, altere o valor da constante `LOCAL_IP` nos arquivos `server\src\controllers\PointsController.ts`, `server\src\controllers\ItemsController.ts` e `mobile\src\services\api.ts` colocando o valor do seu IP local.
 
 #### API REST (Backend)
 * Abra um terminal na pasta /server
@@ -41,5 +41,5 @@ Antes de rodar o backend, front-end web e front-end mobile, altere o valor da co
 
 ### Minhas Redes
 * [Linkedin](https://www.linkedin.com/in/joserogeriofilho/)
-* [GitHub] (https://github.com/joserogeriofilho)
+* [GitHub](https://github.com/joserogeriofilho)
 * [Behance](https://www.behance.net/joserogeriofilho)
